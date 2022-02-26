@@ -1,0 +1,21 @@
+{
+  "name": "menu_lateral_animado_html_css-javascript",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Menu lateral usando HTML CSS e Javascript</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass -w -s compressed assets/sass:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesj4/Menu_Lateral_Animado_Html_CSS-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesj4/Menu_Lateral_Animado_Html_CSS-Javascript/issues"
+  },
+  "homepage": "https://github.com/charlesj4/Menu_Lateral_Animado_Html_CSS-Javascript#readme"
+}
